@@ -6,9 +6,9 @@
 ## Sobre mi :
 
 - 🎓 Studies for Software Engineering at **Cesun Universidad**
-- 🏡 Vivo en **Tijuana B. C**
-- ⚡ **Fun Facts** : 🍕 💻 🌮 ⚽
-- MI correo electronico: **derian.jimenezramirez@cesunbc.edu.mx**
+- 📍Vivo en **Tijuana B. C**
+- ⚡ **Me gusta** : 🍕 💻 🌮 ⚽
+- 📧 Mi correo electronico: **derian.jimenezramirez@cesunbc.edu.mx**
 
 <br>
 
@@ -17,9 +17,9 @@
 <br>
 
 <p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="derian"/></a>
-  <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="derian"/></a>
+<a href="www.linkedin.com/in/derian-jimenez-ramirez-259039317" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="https://www.instagram.com/fernando_8tj/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="derian"/></a>
+  <a href="https://www.facebook.com/derian.jimenez.ramirez/?viewas=&should_open_composer=false&show_switched_toast=false&show_invite_to_follow=false&show_switched_tooltip=false&show_podcast_settings=false&show_community_review_changes=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="derian"/></a>
   </p>
 <br>
 
