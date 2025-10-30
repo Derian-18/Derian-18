@@ -5,9 +5,7 @@
 
 ## Sobre mi :
 
-- 🏢 Former **Software Engineer** at Cesun Universidad
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🎓 Studies for Software Engineering at **Cesun Universidad**
 - 🏡'Lives in **Tijuana B. C**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
