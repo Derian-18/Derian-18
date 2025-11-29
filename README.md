@@ -61,6 +61,13 @@
 
 <br>
 
+
+<br>
+
+## 🎓 Mis certificaciones
+
+[![Ver mis certificaciones en Credly](https://img.shields.io/badge/Credly-Mis%20Certificaciones-orange?logo=credly)](https://www.credly.com/users/derian-jimenez)
+
 ## GitHub Stats 📈 :
 
 <br>
