@@ -67,10 +67,3 @@
 ## 🎓 Mis certificaciones
 
 [![Ver mis certificaciones en Credly](https://img.shields.io/badge/Credly-Mis%20Certificaciones-orange?logo=credly)](https://www.credly.com/users/derian-jimenez)
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Derian-18&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Derian Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Derian-18&theme=algolia)](https://github.com/Derian-18) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derian-18&theme=algolia)](https://github.com/Derian-18) 
-<br>
