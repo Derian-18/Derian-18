@@ -6,7 +6,7 @@
 ## Sobre mi :
 
 - 🎓 Studies for Software Engineering at **Cesun Universidad**
-- 📍Vivo en **Tijuana B. C**
+- 📍Soy de **Tijuana B. C**
 - ⚡ **Me gusta** : 🍕 💻 🌮 ⚽
 - 📧 Mi correo electronico: **derian.jimenezramirez@cesunbc.edu.mx**
 
