@@ -17,7 +17,7 @@
 <br>
 
 <p align="left">
-  <a href="www.linkedin.com/in/derian-jimenez-ramirez-259039317" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="https://www.linkedin.com/in/derian-jimenez-ramirez-259039317/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href="https://www.instagram.com/fernando_8tj/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="derian"/></a>
   </p>
 <br>
