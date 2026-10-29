@@ -24,7 +24,7 @@
 
 <br>
 
-## En lo que soy bueno 🧑‍💻 :
+## Tecnologías con las que he trabajado 🧑‍💻 :
 
 <br>
 
